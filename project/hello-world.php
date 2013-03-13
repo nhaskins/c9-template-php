@@ -5,4 +5,7 @@
 
 echo 'Hello world from Cloud9!';
 
+// If you want, have a look at the error log in ~/php_errors.log,
+// or change the php.ini file in your project directory.
+
 ?>
